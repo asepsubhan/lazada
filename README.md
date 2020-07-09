@@ -2,6 +2,6 @@
 lazada_event
 
 
-s.lazada.co.id/s.b90EB
+https://s.lazada.co.id/s.b90EB
 
 amazing app
